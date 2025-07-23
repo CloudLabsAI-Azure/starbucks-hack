@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Starbucks-Hackathon",
+        "Language": "English",
+        "Files": [
+          {
+            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/starbucks-hack/refs/heads/main/Gettingstarted.md",
+            "Order": 1
+          }
+        ]
+    }
+]
