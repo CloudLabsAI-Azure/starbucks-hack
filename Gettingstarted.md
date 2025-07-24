@@ -18,43 +18,43 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** Details tab.
  
-![Explore Lab Resources](./Images/june-getting-started-3.png)
+![Explore Lab Resources](./Images/environment-details.png)
  
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the guide in a separate window by selecting the **Split Window** button from the top right corner.
  
-![Use the Split Window Feature](./Images/june-getting-started-2.png)
+![Use the Split Window Feature](./Images/split-window.png)
  
 ## Managing Your Virtual Machine
  
 Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources** **(1)** tab. Your experience is in your hands!
  
-![Manage Your Virtual Machine](./Images/8-7-25-g2.png)
+![Manage Your Virtual Machine](./Images/resources.png)
  
 ## Lab Guide Zoom In/Zoom Out
  
 To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
 
- ![OpenAI](./Images/june-getting-started-6upd.png)
+   ![OpenAI](./Images/june-getting-started-6upd.png)
 
 ## Let's Get Started with Azure Portal
 
 1. On your virtual machine, click on the Azure Portal icon.
 
-![azure portal desktop icon](./Images/portal.png)
+   ![azure portal desktop icon](./Images/portal.png)
 
 2. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-     ![Enter Your Username](./Images/UserName.png)
+     ![Enter Your Username](./Images/sign-in.png)
 
 3. Next, provide your password:
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-     ![Enter Your Password](./Images/Password.png)
+     ![Enter Your Password](./Images/password.png)
 
 4. If **Action required** pop-up window appears, click on **Ask later**.
 5. If prompted to **stay signed in**, you can click **No**.
